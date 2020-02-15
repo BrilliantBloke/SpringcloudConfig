@@ -1,11 +1,1 @@
-zuul:
-  routes:
-    api-a:
-      path: /service-hi/**
-      serviceId: service-hi
-    api-b:
-      path: /service-hi2/**
-      serviceId: service-hi2
-    api-feign:
-      path: /api-feign/**
-      serviceId: service-feig
+foo: foo version 2
